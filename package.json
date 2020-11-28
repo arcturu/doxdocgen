@@ -28,6 +28,7 @@
     }
   ],
   "activationEvents": [
+    "onLanguage:glsl",
     "onLanguage:cuda",
     "onLanguage:cpp",
     "onLanguage:c"
